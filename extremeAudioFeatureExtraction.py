@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Extreme Audio Feature Extractor                          %
+%                                                          %
+% Copyright (C) 2019 Cagatay Demirel. All rights reserved. %
+%                    demirelc16@itu.edu.tr                 %
+%                                                          %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 #import sys
 import time
 import os
